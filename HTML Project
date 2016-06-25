@@ -1,0 +1,65 @@
+
+<!doctype html>
+<html>
+<head>
+    <title>Web Design</title>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+       
+</head>
+
+<body>
+
+    <iframe align="right" width="560" height="315" src="https://www.youtube.com/embed/Z6kNgSXAT-Y" frameborder="0" allowfullscreen></iframe>
+
+    <h1> Hello World!</h1>
+
+    <h2>A few facts about web design</h2>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/HTML.svg/200px-HTML.svg.png" width='300' height='300'>
+
+    <p>Web design encompasses many different skills and disciplines in the production and maintenance of websites. The different areas of web design include web graphic design; interface design; authoring, including standardised code and proprietary software; user experience design; and search engine optimization. Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all.[1] The term web design is normally used to describe the design process relating to the front-end (client side) design of a website including writing mark up. Web design partially overlaps web engineering in the broader scope of web development. Web designers are expected to have an awareness of usability and if their role involves creating mark up then they are also expected to be up to date with web accessibility guidelines.</p>
+    <hr />
+
+    <h3>Web design languages</h3>
+
+    <ul>
+        <li><strong>HTML</strong></li>
+        <li><strong>CSS</strong></li>
+        <li><a href="https://www.javascript.com/"><strong>Javascript</strong></a></li>
+        <li><strong>PHP</strong></li>
+        <li><strong>Ruby</strong></li>
+    </ul>
+
+    <hr />
+
+    <h3>Top 3 Web Design Facts</h3>
+
+    <ol>
+        <li>Design dictates where users will focus on your website</li>
+        <li>A two year old website may be too old</li>
+        <li>Your website's code helps it to appeal to search engines</li>
+    </ol>
+
+    <hr />
+
+    <table>
+        <tr><th>Language</th><th>Pros</th><th>Cons</th></tr>
+        <tr><td>HTML</td><td>Easily integratable with other languages</td><td>Can become obsolete fairly quickly</td></tr>
+        <tr><td>Javascript</td><td>Executed on the client side</td><td>Inconsitent rendering</td></tr>
+        <tr><td>Ruby</td><td>Clean look</td><td>Doesn't require variables to be declared before use making run-time errors hard to spot</td></tr>
+    </table>
+
+    <hr />
+
+    <form action="http://www.how-to-build-websites.com/">
+
+    <p>Want to learn more?</p>
+
+    <input type="submit" value="Click Here!"/>
+    </form>
+
+</body>
+</html>
